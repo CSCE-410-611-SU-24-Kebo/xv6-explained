@@ -1,17 +1,5 @@
-### The point of this document:
-
-I'm actually not so sure.
-I think the point is to explain why xv6 does stuff, in broad strokes, as a complement to the explanations of the actual code of xv6.
-
-### Important-ish note:
-
-Often, I'll refer to things that haven't been explained yet.
-Just keep in mind that not everything is explained at first, and that's okay.
-
-These explanations are not full. They may not even be accurate.
-I'm just jotting these down during class, hoping it more or less gives a picture of what's going on.
-
-Anyways, here we go.
+### Introduction
+This document provides an overview of the design decisions and rationale behind xv6, an educational operating system. It serves as a companion to the xv6 codebase, offering high-level explanations and insights into the system's architecture and functionality. Please note that this document is not an exhaustive or definitive guide, but rather a collection of notes and observations made during the learning process.
 
 ---
 
